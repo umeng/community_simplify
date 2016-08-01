@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_translate_down_current.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_translate_down_current.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_dialog_in.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_dialog_in.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_activity_alpha_action_in.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_activity_alpha_action_in.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_translate_up_img.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_translate_up_img.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_translate_up.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_translate_up.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_pb_default.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_pb_default.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_dialog_out.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_dialog_out.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_translate_up_current.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_translate_up_current.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_image_browser_out.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_image_browser_out.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_translate_down_img.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_translate_down_img.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_image_browser_in.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_image_browser_in.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/anim/umeng_comm_translate_down.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/anim/umeng_comm_translate_down.xml"
+    }
+]

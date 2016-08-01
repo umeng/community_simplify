@@ -1,0 +1,634 @@
+[
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_back_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_back_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_male.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_male.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_more.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_more.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/guanzhuhuati.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/guanzhuhuati.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_topic_recommend.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_topic_recommend.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_add_topic_bg.9.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_add_topic_bg.9.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shezhi.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/shezhi.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_cancel_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_cancel_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_photo.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_photo.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_realtime_icon.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_realtime_icon.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/youlan.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/youlan.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_msg_chat.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_msg_chat.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_notification.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_notification.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_like_p.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_like_p.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/zhaopian.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/zhaopian.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/zuobai.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/zuobai.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_msg_notice.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_msg_notice.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_comment_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_comment_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/xiangji.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/xiangji.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_favorite_p.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_favorite_p.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_discuss_announce.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_discuss_announce.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_user_info_male.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_user_info_male.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/zhuangfa.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/zhuangfa.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tishib.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/tishib.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_search_icon.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_search_icon.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_topic_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_topic_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/zhongbai.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/zhongbai.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jiaguanzhu.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/jiaguanzhu.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_find_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_find_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_my_msg_arrow.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_my_msg_arrow.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_nearby_user_loc_icon.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_nearby_user_loc_icon.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tiezipinglunh.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/tiezipinglunh.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_uncheck.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_uncheck.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jiantou.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/jiantou.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/xianghu.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/xianghu.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_tab_bg.9.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_tab_bg.9.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_gender_male.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_gender_male.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_switch_slider_normal.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_switch_slider_normal.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_nearby_loc_icon.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_nearby_loc_icon.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/kuangh.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/kuangh.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_hidepassword.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_hidepassword.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/duihuakuang2.9.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/duihuakuang2.9.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_camera_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_camera_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_image_delete.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_image_delete.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_camera.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_camera.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/xiangce.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/xiangce.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_send_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_send_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_register_btnbg.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_register_btnbg.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_add_image.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_add_image.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_like_n.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_like_n.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_back_white.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_back_white.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/weishoucang.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/weishoucang.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_setting.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_setting.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/xialahui.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/xialahui.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_like_more_user_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_like_more_user_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_new_post.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_new_post.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ding.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/ding.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_comment_comment_p.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_comment_comment_p.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_ic_loading_white.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_ic_loading_white.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_emojipoint_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_emojipoint_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_back.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_back.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/huati.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/huati.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_send.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_send.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_title_back.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_title_back.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_favorites_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_favorites_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_switch_frame.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_switch_frame.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/xie.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/xie.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_like_more_user_normal.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_like_more_user_normal.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_comment_n.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_comment_n.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_emoji_keyboard.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_emoji_keyboard.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shoucang.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/shoucang.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_nearby_user.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_nearby_user.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_com_showpassword.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_com_showpassword.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_nearby_recommend.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_nearby_recommend.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_emojipoint_normal.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_emojipoint_normal.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_item_like.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_item_like.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/yiguanzhu.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/yiguanzhu.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tiezizanh.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/tiezizanh.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_at_friend.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_at_friend.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_login_close.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_login_close.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_comment_like_n.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_comment_like_n.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_user_add_follow_btn.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_user_add_follow_btn.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_msg_like.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_msg_like.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_switch_state_disable.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_switch_state_disable.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_xiaolian.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_xiaolian.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_at_friend_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_at_friend_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sixin.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/sixin.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/youbai.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/youbai.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_community_location.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_community_location.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_xiaolian_press.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_xiaolian_press.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_emoji.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_emoji.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_user_info_female.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_user_info_female.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_item_location.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_item_location.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tishih.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/tishih.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_comment_like_p.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_comment_like_p.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/shezhidianji.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/shezhidianji.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_user_p.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_user_p.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_lock.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_lock.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/huatizu.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/huatizu.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/zhonglan.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/zhonglan.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_photo_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_photo_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jiaw.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/jiaw.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_forward_bg.9.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_forward_bg.9.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/wodetuce.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/wodetuce.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/blue_line_for_tv.9.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/blue_line_for_tv.9.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_chat_btn.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_chat_btn.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_reply_comment.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_reply_comment.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jia.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/jia.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/zuolan.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/zuolan.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_more.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_more.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/postsmall.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/postsmall.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_post_feed_arrow.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_post_feed_arrow.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_search.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_search.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_location_small_icon.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_location_small_icon.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_female.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_female.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_gender_female.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_gender_female.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/kuangc.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/kuangc.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_item_comment.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_item_comment.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_reply.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_reply.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tiezizanc.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/tiezizanc.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_favorite_n.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_favorite_n.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_backward.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_backward.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/feedbuttonbg.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/feedbuttonbg.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_top_announce.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_top_announce.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_switch_state_normal.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_switch_state_normal.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tongzhi.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/tongzhi.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_msg_comment.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_msg_comment.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/faxian.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/faxian.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/xialalan.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/xialalan.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_cancel.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_cancel.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_setting_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_setting_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_forward_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_forward_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_user_recommend.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_user_recommend.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_switch_state_mask.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_switch_state_mask.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/xuanzhongtupian.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/xuanzhongtupian.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_msg_arrow.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_msg_arrow.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_like_white.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_like_white.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_comment_comment_n.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_comment_comment_n.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pinglun.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/pinglun.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_comment_p.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_comment_p.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_loc_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_loc_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jing.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/jing.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_item_essential.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_item_essential.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/xuan.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/xuan.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_new_post_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_new_post_pressed.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_like_normal.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_like_normal.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_item_top.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_item_top.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_small_location_icon.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_small_location_icon.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_topic.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_topic.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/haoyouquan.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/haoyouquan.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/duihuakuang1.9.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/duihuakuang1.9.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_like_icon.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_like_icon.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_announce.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_announce.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_arrow.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_arrow.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_switch_slider_disable.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_switch_slider_disable.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_top.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_top.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jifen.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/jifen.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_like_pressed.png",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/drawable-xhdpi-v4/umeng_comm_like_pressed.png"
+    }
+]

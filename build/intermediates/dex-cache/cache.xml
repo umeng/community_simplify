@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f18c12c5c61cb5776f98da76094d67b79dd19fc7">
+        <dex dex="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/pre-dexed/debug/android-support-v4_22c00e034db0ae33578fe12f6f46f2f3bd482dab.jar" />
+    </item>
+    <item
+        jar="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/jars/libs/net_core.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b8c5bb168defc4914f9de5354e090432ff289cf5">
+        <dex dex="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/pre-dexed/debug/net_core_31f3602c4de5348804db18005fca5f55e96465ec.jar" />
+    </item>
+    <item
+        jar="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="904534a8364ea8625314cae78b63da832b6803a5">
+        <dex dex="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/pre-dexed/debug/instant-run_8e61f569ddf4046cdb25074d1cd05aec6c0b8bd3.jar" />
+    </item>
+    <item
+        jar="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/jars/libs/umeng_activeandroid.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="27c626ad7c0c91f6b663101c6d2270fc212d5abd">
+        <dex dex="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/pre-dexed/debug/umeng_activeandroid_214a4f16b3c2b1acd4e14d00194872cef2c67d11.jar" />
+    </item>
+    <item
+        jar="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/jars/libs/android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="05eee1db0e75e02114c2d4c3945c913d7134c12b">
+        <dex dex="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/pre-dexed/debug/android-support-v7-recyclerview_c85e581dfece35f908e2c6c834733ec3b82741a6.jar" />
+    </item>
+    <item
+        jar="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2d24c8b1ec815b77d1b74dc1de61f23eaebfec48">
+        <dex dex="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_67d26c292d8323e658a67887d8a7da51caed50c6.jar" />
+    </item>
+    <item
+        jar="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/jars/libs/httpmime-4.1.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="08f61cad19e6d3167ce6b512f54f40d44d225ab8">
+        <dex dex="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/pre-dexed/debug/httpmime-4.1.3_681380e09530e954e724401e5b153094352b271b.jar" />
+    </item>
+    <item
+        jar="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/jars/libs/universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="26afc08bc77775566ff20a36799e1dfabb61791a">
+        <dex dex="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.4_262c458ea33551ed3f7169bea52580d2a07710f3.jar" />
+    </item>
+    <item
+        jar="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/jars/libs/umeng_community_sdk_core.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9bc55bb06d00ebe9d3566e42a68e382c35ef30da">
+        <dex dex="/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/pre-dexed/debug/umeng_community_sdk_core_0740a7f8afe49c97800ce569c803a761b321f921.jar" />
+    </item>
+
+</items>

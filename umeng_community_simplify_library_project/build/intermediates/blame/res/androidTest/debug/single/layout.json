@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_fragment_title.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_fragment_title.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_search_topic.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_search_topic.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_topic_detail_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_topic_detail_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_my_msg_item_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_my_msg_item_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_comment_main_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_comment_main_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_find_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_find_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_topic_recommend.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_topic_recommend.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_empty_view.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_empty_view.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_topic_search.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_topic_search.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_my_adapter.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_my_adapter.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_no_data.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_no_data.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_message_chat_lv_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_message_chat_lv_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_image_selected_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_image_selected_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_find_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_find_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_feed_detail_fragment.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_feed_detail_fragment.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_nearby_user_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_nearby_user_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_title_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_title_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_listview.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_listview.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_progressbar.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_progressbar.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_user_info_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_user_info_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_login.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_login.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_emoji_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_emoji_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_more_dialog_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_more_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_nearby_user_lv_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_nearby_user_lv_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_imagepicker_photoselector.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_imagepicker_photoselector.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_imagepicker_album_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_imagepicker_album_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_title.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_title.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_commm_pic_clip.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_commm_pic_clip.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_img_browser_item_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_img_browser_item_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_friends_frag.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_friends_frag.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_comment_action_dialog.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_comment_action_dialog.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_comment_main_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_comment_main_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_feed_detail_header.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_feed_detail_header.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_notify_fragment.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_notify_fragment.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_guide_activity.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_guide_activity.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_post_feed_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_post_feed_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_imagepicker_view_photopreview.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_imagepicker_view_photopreview.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_received_comment_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_received_comment_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_topicpick_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_topicpick_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_message_session_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_message_session_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_waitdialog.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_waitdialog.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_category_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_category_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_divide_line.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_divide_line.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_friends_lv_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_friends_lv_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_browser_url.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_browser_url.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_recommend_user_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_recommend_user_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_comment_action_dialog.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_comment_action_dialog.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_followed_user_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_followed_user_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_push_setting.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_push_setting.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_commm_notify_activity.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_commm_notify_activity.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_received_comment_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_received_comment_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_chat_input_view.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_chat_input_view.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_active_user_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_active_user_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_report_reply_comment_dialog.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_report_reply_comment_dialog.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_feed_lv_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_feed_lv_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_comment_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_comment_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_topicpick_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_topicpick_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_notify_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_notify_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_friends_frag.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_friends_frag.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_setting_activity.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_setting_activity.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_community_frag_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_community_frag_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_account_setting.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_account_setting.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_switch_button.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_switch_button.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_message_chat_fragment.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_message_chat_fragment.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_at_friends_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_at_friends_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_received_comment_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_received_comment_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_notify_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_notify_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_like_user_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_like_user_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_setting_title_bar.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_setting_title_bar.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_setting.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_setting.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_followed_topic_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_followed_topic_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_image_selected_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_image_selected_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_at_friend_lv_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_at_friend_lv_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_base_view.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_base_view.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_fragment_title.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_fragment_title.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_community_frag_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_community_frag_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_category_recommend.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_category_recommend.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_main_topic.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_main_topic.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_search_header_view.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_search_header_view.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_location_feed_activity.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_location_feed_activity.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_active_user_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_active_user_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_topic_select.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_topic_select.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_images_gv.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_images_gv.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_base_loading_view.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_base_loading_view.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_base_empty_view.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_base_empty_view.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_gender_select.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_gender_select.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_image_browser.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_image_browser.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_topic_search_title_bar.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_topic_search_title_bar.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_setting_activity.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_setting_activity.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_album_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_album_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_recommendtopic_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_recommendtopic_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_search_activity.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_search_activity.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_commm_my_msg_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_commm_my_msg_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_imagepicker_photo_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_imagepicker_photo_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_toast_topic_default.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_toast_topic_default.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_feed_detail.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_feed_detail.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_comment_reply_stub.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_comment_reply_stub.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_topic_detail_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_topic_detail_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_my.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_my.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_user_info.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_user_info.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_register.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_register.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_feeds_frgm_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_feeds_frgm_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_listview_footer.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_listview_footer.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_img_browser_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_img_browser_layout.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_imagepicker_photopreview.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_imagepicker_photopreview.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_comm_feeds_activity.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_comm_feeds_activity.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_msg_comment_item.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_msg_comment_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/layout/umeng_simplify_feeds_frgm_layout.xml",
+        "source": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/layout/umeng_simplify_feeds_frgm_layout.xml"
+    }
+]

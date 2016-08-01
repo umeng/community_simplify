@@ -1,0 +1,341 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:2:1-187:12
+	package
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:4:5-42
+		INJECTED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:8:5-10:41
+MERGED from [umeng_community_demo_simplify:umeng_community_simplify_library_project:unspecified] /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:9:9-35
+		INJECTED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:14:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:21:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:23:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:27:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:29:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:30:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:31:5-76
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:31:22-73
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:32:22-76
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:35:5-68
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:35:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:36:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:37:5-66
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:37:22-63
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:38:5-73
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:38:22-70
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:40:5-68
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:40:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:42:5-79
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:42:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:44:5-81
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:44:22-78
+uses-permission#android.permission.BROADCAST_PACKAGE_ADDED
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:58:5-82
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:58:22-79
+uses-permission#android.permission.BROADCAST_PACKAGE_CHANGED
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:59:5-84
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:59:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_INSTALL
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:60:5-84
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:60:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_REPLACED
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:61:5-85
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:61:22-82
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:62:5-75
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:62:22-72
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:63:5-71
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:63:22-68
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:65:5-67
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:65:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:66:5-70
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:66:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:67:5-67
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:67:22-64
+application
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:69:5-185:19
+MERGED from [umeng_community_demo_simplify:umeng_community_simplify_library_project:unspecified] /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:74:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:72:9-44
+	android:allowBackup
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:71:9-35
+	android:icon
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:73:9-48
+	android:theme
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:75:9-44
+	tools:replace
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:76:9-52
+activity#com.umeng.community.example.MainActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:77:9-88:20
+	android:label
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:81:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:82:13-67
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:80:13-63
+	android:alwaysRetainTaskState
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:78:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:83:13-87:29
+action#android.intent.action.MAIN
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:84:17-69
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:84:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:85:27-74
+activity#com.umeng.simplify.ui.activities.FeedDetailActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:91:9-95:70
+	android:launchMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:94:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:95:13-67
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:93:13-63
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:92:13-79
+activity#com.umeng.common.ui.activities.SettingActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:98:9-83
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:98:19-80
+activity#com.umeng.common.ui.activities.AlbumActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:102:9-81
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:102:19-78
+activity#com.umeng.common.ui.imagepicker.PhotoSelectorActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:105:9-90
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:105:19-87
+activity#com.umeng.common.ui.imagepicker.PhotoPreviewActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:106:9-89
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:106:19-86
+activity#com.umeng.common.ui.activities.MessageChatActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:107:9-109:58
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:109:13-55
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:108:13-78
+activity#com.umeng.community.login.DefaultLoginActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:110:9-114:71
+	android:screenOrientation
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:113:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:114:13-68
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:112:13-63
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:111:13-74
+activity#com.umeng.community.login.RegisterActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:115:9-119:71
+	android:screenOrientation
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:118:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:119:13-68
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:117:13-63
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:116:13-70
+activity#com.umeng.simplify.ui.activities.FindActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:122:9-126:70
+	android:screenOrientation
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:125:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:126:13-67
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:124:13-63
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:123:13-73
+activity#com.umeng.simplify.ui.activities.NewMsgActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:127:9-131:70
+	android:screenOrientation
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:130:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:131:13-67
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:129:13-63
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:128:13-75
+activity#com.umeng.simplify.ui.activities.SettingActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:132:9-136:70
+	android:screenOrientation
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:135:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:136:13-67
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:134:13-63
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:133:13-76
+activity#com.umeng.simplify.ui.activities.UserInfoActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:137:9-141:70
+	android:screenOrientation
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:140:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:141:13-67
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:139:13-63
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:138:13-77
+activity#com.umeng.simplify.ui.activities.TopicDetailActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:142:9-146:70
+	android:screenOrientation
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:145:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:146:13-67
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:144:13-63
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:143:13-80
+activity#com.umeng.simplify.ui.activities.PostFeedActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:147:9-151:70
+	android:screenOrientation
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:150:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:151:13-67
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:149:13-63
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:148:13-77
+activity#com.umeng.common.ui.activities.LoginSimplifyActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:152:9-156:71
+	android:screenOrientation
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:155:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:156:13-68
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:154:13-63
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:153:13-80
+activity#com.umeng.common.ui.activities.RegisterActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:157:9-161:71
+	android:screenOrientation
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:160:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:161:13-68
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:159:13-63
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:158:13-75
+activity#com.umeng.simplify.ui.activities.FeedsActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:162:9-167:70
+	android:screenOrientation
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:166:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:167:13-67
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:165:13-63
+	android:alwaysRetainTaskState
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:164:13-49
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:163:13-74
+meta-data#UMENG_APPKEY
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:168:9-170:66
+	android:value
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:170:13-53
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:169:13-40
+meta-data#UMENG_MESSAGE_SECRET
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:171:9-173:74
+	android:value
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:173:13-61
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:172:13-48
+meta-data#com.amap.api.v2.apikey
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:175:9-177:64
+	android:value
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:177:13-61
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:176:13-50
+activity#com.umeng.common.ui.activities.BrowserActivity
+ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:180:9-182:77
+	android:configChanges
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:182:13-74
+	android:name
+		ADDED from /Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/src/main/AndroidManifest.xml:181:13-74

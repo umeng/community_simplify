@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/res/merged/debug/values-mdpi-v4/values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/app/build/intermediates/exploded-aar/umeng_community_demo_simplify/umeng_community_simplify_library_project/unspecified/res/values-mdpi-v4/values-mdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            }
+        ]
+    }
+]

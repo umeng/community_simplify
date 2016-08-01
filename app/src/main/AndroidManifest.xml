@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.umeng.community.example"
+    android:versionCode="9"
+    android:versionName="2.5">
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="10" />
+
+    <!-- 使用相机 -->
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <!-- ###################声明SDK使用的相关权限###################### -->
+    <!-- 检测网络状态 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 获取mac地址作为用户的备用唯一标识 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 获取用户手机的IMEI，用来唯一的标识用户 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 缓存资源优先存入SDcard -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 允许应用程序联网，以便向我们的服务器端发送数据 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 定位所需的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+
+    <!-- 推送相关的权限 -->
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- QQ、QQ空间所需权限 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <!-- 可选 -->
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_ADDED" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_CHANGED" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_INSTALL" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_REPLACED" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+
+    <application
+
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/umeng_app_icon"
+        android:label="@string/app_name"
+        android:theme="@style/UmengDefault"
+        tools:replace="android:icon, android:theme">
+        <activity
+            android:name="com.umeng.community.example.MainActivity"
+            android:alwaysRetainTaskState="true"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden|adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name="com.umeng.simplify.ui.activities.FeedDetailActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+
+
+        <activity android:name="com.umeng.common.ui.activities.SettingActivity" />
+
+
+
+        <activity android:name="com.umeng.common.ui.activities.AlbumActivity" />
+
+
+        <activity android:name="com.umeng.common.ui.imagepicker.PhotoSelectorActivity" />
+        <activity android:name="com.umeng.common.ui.imagepicker.PhotoPreviewActivity" />
+        <activity
+            android:name="com.umeng.common.ui.activities.MessageChatActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.umeng.community.login.DefaultLoginActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustNothing" />
+        <activity
+            android:name="com.umeng.community.login.RegisterActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustNothing" />
+
+        <!--精简版-->
+        <activity
+            android:name="com.umeng.simplify.ui.activities.FindActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.umeng.simplify.ui.activities.NewMsgActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.umeng.simplify.ui.activities.SettingActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.umeng.simplify.ui.activities.UserInfoActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.umeng.simplify.ui.activities.TopicDetailActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.umeng.simplify.ui.activities.PostFeedActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.umeng.common.ui.activities.LoginSimplifyActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustNothing" />
+        <activity
+            android:name="com.umeng.common.ui.activities.RegisterActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustNothing" />
+        <activity
+            android:name="com.umeng.simplify.ui.activities.FeedsActivity"
+            android:alwaysRetainTaskState="true"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="57357bf9e0f55ab6ac000342"></meta-data>
+        <meta-data
+            android:name="UMENG_MESSAGE_SECRET"
+            android:value="f9567099e4b16808c84d8fc9acf6e6f8"></meta-data>
+
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="557e18d1afb32a69351be5abc7f1cd25" />
+
+
+        <activity
+            android:name="com.umeng.common.ui.activities.BrowserActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+
+
+    </application>
+
+</manifest>

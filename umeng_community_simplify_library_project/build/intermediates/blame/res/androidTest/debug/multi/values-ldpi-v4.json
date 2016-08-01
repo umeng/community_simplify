@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/res/merged/androidTest/debug/values-ldpi-v4/values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/umeng/Documents/umenggit/umeng_community_demo_simplify/umeng_community_simplify_library_project/build/intermediates/bundles/debug/res/values-ldpi-v4/values-ldpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            }
+        ]
+    }
+]
